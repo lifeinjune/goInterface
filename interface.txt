@@ -1,0 +1,4 @@
+1. interface is not a generic type (accepting any types)
+2. we dont make the link between types with interface ( go automatically do it for us)
+3. interface help manage type
+4. interface is hard 
