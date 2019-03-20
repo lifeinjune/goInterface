@@ -4,6 +4,7 @@ import "fmt"
 
 type bot interface { //declare of interface bot
 	getGreeting() string // any types that implement the function getGreeting() and returns string is also member of bot type
+	//interface type cannot make the value directly from it
 
 }
 type englishBot struct {
